@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Flu Clinic Finder",
+    "description": "Application framework created to help users find flu clinics by location and open date/time. Conceived as a framework for other location- and time-based services.",
+    "link_url": "",
+    "code_url": "https://github.com/opensmc/smcfluclinics",
+    "tags": "",
+    "status": ""
+  },
+  {
+    "name": "SMC Service Finder",
+    "description": "An expanded version of the flu clinic finder app, with selectable layers for various types of public services.",
+    "link_url": "",
+    "code_url": "https://github.com/opensmc/service-locator",
+    "tags": "",
+    "status": ""
+  },
+  {
+    "name": "OpenN11",
+    "description": "Open-data directory of county services. Just the facts: who, what, where, when and when. \nLike calling 211. For any government service, not just human services.",
+    "link_url": "https://data.smcgov.org/Government/RLH_open211_map/mkwn-xvrd",
+    "code_url": "https://github.com/opensmc/smc-openN11",
+    "tags": "",
+    "status": ""
+  },
+  {
+    "name": "CycleSMC - iOS",
+    "description": "San Mateo County-specific version of Code for Philly's CyclePhilly iOS application to track cycling usage.",
+    "link_url": "",
+    "code_url": "https://github.com/opensmc/CycleSMC-iOS",
+    "tags": "",
+    "status": ""
+  },
+  {
+    "name": "CycleSMC - Android",
+    "description": "San Mateo County-specific version of Code for Philly's CyclePhilly Android application to track cycling usage.",
+    "link_url": "",
+    "code_url": "https://github.com/opensmc/CycleSMC-Android",
+    "tags": "",
+    "status": ""
+  },
+  {
+    "name": "OpenSMC Website",
+    "description": "Starter website for OpenSMC.  Forked from sfbrigade.github.io, hosted on GitHub Pages.",
+    "link_url": "http://opensmc.org",
+    "code_url": "https://github.com/opensmc/opensmc.github.io",
+    "tags": "",
+    "status": ""
+  }
+]
